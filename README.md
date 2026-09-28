@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="S M Rubaeit Ferdus — Full-stack developer from Bangladesh" />
+  <img src="banner.png" alt="S M Rubaeit Ferdus — Full-stack developer from Bangladesh" />
 </div>
 
 <br/>
