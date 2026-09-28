@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://github.com/rubaeitferdous.png?size=240" width="110" height="110" alt="S M Rubaeit Ferdus" />
+  <img src="banner.png" alt="S M Rubaeit Ferdus — Full-stack developer from Bangladesh" />
+</div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C%20I'm%20S%20M%20Rubaeit%20Ferdus;Full-stack%20developer%20from%20Bangladesh;Currently%20learning%20Next.js" alt="Hi, I'm S M Rubaeit Ferdus" />
+<br/>
 
+<div align="center">
   <p>
     Full-stack developer from <strong>Bangladesh</strong>, currently learning <strong>Next.js</strong>.<br/>
     I build with React, TypeScript, and Tailwind — and I still like getting my hands dirty in C, C++, and Python.
