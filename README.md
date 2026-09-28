@@ -1,39 +1,52 @@
-<h1 align="center">Hi 👋, I'm S M Rubaeit Ferdus</h1>
-<h3 align="center">A full-stack developer from Bangladesh, currently learning</h3>
+<div align="center">
+  <img src="https://github.com/rubaeitferdous.png?size=240" width="110" height="110" alt="S M Rubaeit Ferdus" />
 
-## About me
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C%20I'm%20S%20M%20Rubaeit%20Ferdus;Full-stack%20developer%20from%20Bangladesh;Currently%20learning%20Next.js" alt="Hi, I'm S M Rubaeit Ferdus" />
 
-- 🌱 Currently learning **Next.js**
-- 📫 Reach me at [rubaeitferdous@gmail.com](mailto:rubaeitferdous@gmail.com)
+  <p>
+    Full-stack developer from <strong>Bangladesh</strong>, currently learning <strong>Next.js</strong>.<br/>
+    I build with React, TypeScript, and Tailwind — and I still like getting my hands dirty in C, C++, and Python.
+  </p>
 
-## Connect
+  <p>
+    <a href="https://github.com/rubaeitferdous"><img src="https://komarev.com/ghpvc/?username=rubaeitferdous&label=Profile%20views&color=58a6ff&style=flat" alt="Profile views" /></a>
+  </p>
 
-<p>
-  <a href="https://x.com/rubaeitf">
-    <img src="https://img.shields.io/badge/X-rubaeitf-000000?logo=x&logoColor=white" alt="Follow rubaeitf on X" />
-  </a>
+  <p>
+    <a href="https://github.com/rubaeitferdous"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+    &nbsp;&nbsp;
+    <a href="https://x.com/rubaeitf"><img src="https://skillicons.dev/icons?i=twitter" alt="X" /></a>
+    &nbsp;&nbsp;
+    <a href="mailto:rubaeitferdous@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  </p>
+</div>
+
+---
+
+### Currently
+
+- Learning **Next.js** and deepening React / TypeScript
+- Building with HTML, CSS, JavaScript, Node.js, and Tailwind CSS
+- Design in Figma, Photoshop, and Illustrator
+- Based in Bangladesh — write to **rubaeitferdous@gmail.com**
+
+---
+
+### Languages and tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,nextjs,nodejs,python,tailwind,linux,git,figma,ps,ai&perline=8" alt="C, C++, HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Python, Tailwind, Linux, Git, Figma, Photoshop, Illustrator" />
 </p>
 
-## Languages and tools
+---
 
-<p>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=rubaeitferdous&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rubaeitferdous&layout=compact&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Most used languages" />
 </p>
 
-## GitHub stats
-
-[View my GitHub profile and activity](https://github.com/rubaeitferdous)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rubaeitferdous&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+</p>
