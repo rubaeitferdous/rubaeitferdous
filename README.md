@@ -31,7 +31,7 @@
 ---
 
 ### Currently
-- Learning **Next.js** and deepening **React** / **TypeScript**
+- Learning **MongoDB** and deepening **NextJS / React** / **TypeScript**
 - Building full-stack applications with **HTML, CSS, JavaScript, Node.js, Express, MongoDB, and Tailwind CSS**
 - Designing UI/UX layouts and visual assets in **Figma, Photoshop, and Illustrator**
 
